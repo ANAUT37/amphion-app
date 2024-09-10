@@ -3,7 +3,7 @@
     [
         {
             "appId": "c095735e",
-            "iosPath": "ios/App/App.xcodeproj",
+            "iosPath": "ios/App",
         }
     ]
 }
