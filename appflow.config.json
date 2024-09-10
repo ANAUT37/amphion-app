@@ -1,9 +1,9 @@
-
 {
-  "apps": [
-    {
-      "appId": "c095735e",
-      "root": "ios/App/App.xcodeproj",
-    }
-  ]
+    "apps":
+    [
+        {
+            "appId": "c095735e",
+            "iosPath": "ios/App/App.xcodeproj",
+        }
+    ]
 }
