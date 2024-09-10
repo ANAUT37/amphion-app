@@ -1,0 +1,7 @@
+{
+  "name": "MyApp",
+  "app_id": "c095735e",
+  "native": {
+    "iosPath": "ios/App/App.xcodeproj"
+  }
+}
